@@ -1,0 +1,99 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "yoga",
+      "text": "dolor sit, amet consectetur adipisicing Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ea ",
+      "image": "https://plus.unsplash.com/premium_vector-1712741928097-81ac1467b8ac?bg=FFFFFF&w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Njl8S05WY0tTY1VZMzh8fGVufDB8fHx8fA%3D%3D",
+      "writter": "ali hassani",
+      "time": 6,
+      "category": "AI"
+    },
+    {
+      "id": "2",
+      "title": "swimming",
+      "text": "dolor sit, amet consectetur adipisicing Lorem ipsum dolor sit, amet consectetur adipisicing. ",
+      "image": "https://plus.unsplash.com/premium_vector-1711987892442-d05691ef0a48?bg=FFFFFF&w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8M3xLTlZjS1NjVVkzOHx8ZW58MHx8fHx8",
+      "writter": "hassan",
+      "time": "20",
+      "category": "web development"
+    },
+    {
+      "id": "3",
+      "title": "football",
+      "text": " a consectdddetur dolor sit, adipisicing Lorem ipsum dolor sit, amet consectetur adipisicing. ",
+      "image": "https://plus.unsplash.com/premium_vector-1712678583309-ce6f2148c5b9?bg=FFFFFF&w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTl8S05WY0tTY1VZMzh8fGVufDB8fHx8fA%3D%3D",
+      "writter": "ronaldo",
+      "time": "10",
+      "category": "designing",
+      "catagory": "sport"
+    },
+    {
+      "id": "4",
+      "title": "Weightlifting",
+      "text": " a consectetur dolor sit, adipisicing Lorem ipsum dolor sit, amet consectetur adipisicing. ",
+      "image": "https://plus.unsplash.com/premium_vector-1712741923360-25639b9732de?bg=FFFFFF&w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NDd8S05WY0tTY1VZMzh8fGVufDB8fHx8fA%3D%3D",
+      "writter": "karima",
+      "time": "11",
+      "category": "designing",
+      "catagory": "sport"
+    },
+    {
+      "id": "5",
+      "title": "Karate",
+      "text": " a consectetur dolor sit, adipisicing Lorem ipsum dolor sit, amet consectetur adipisicing. ",
+      "image": "https://plus.unsplash.com/premium_vector-1712741928994-b4fe8c8571fc?bg=FFFFFF&w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTF8S05WY0tTY1VZMzh8fGVufDB8fHx8fA%3D%3D",
+      "writter": "john smith",
+      "time": "15",
+      "category": "sport",
+      "catagory": "sport"
+    },
+    {
+      "id": "6",
+      "title": "Boxer",
+      "text": " a consectetur dolor sit, adipisicing Lorem ipsum dolor sit, amet consectetur adipisicing. ",
+      "image": "https://plus.unsplash.com/premium_vector-1712741929442-a65beeba0907?bg=FFFFFF&w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTZ8S05WY0tTY1VZMzh8fGVufDB8fHx8fA%3D%3D",
+      "writter": "massode",
+      "time": "12",
+      "category": "designing",
+      "catagory": "designin"
+    },
+    {
+      "id": "7",
+      "title": "Volleyball",
+      "text": " Volleyball a consectetur dolor sit, adipisicing Lorem ipsum dolor sit, amet consectetur adipisicing. ",
+      "image": "https://plus.unsplash.com/premium_vector-1709118334515-1f7b06d8c4c6?bg=FFFFFF&w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8OTh8S05WY0tTY1VZMzh8fGVufDB8fHx8fA%3D%3D",
+      "writter": "aramk",
+      "time": "12",
+      "category": "designing",
+      "catagory": "designingd"
+    },
+    {
+      "id": "8",
+      "title": "golf",
+      "text": " a consectetur dolor sit, adipisicing Lorem ipsum dolor sit, amet consectetur adipisicing. ",
+      "image": "https://plus.unsplash.com/premium_vector-1711644446451-d43453096dc6?bg=FFFFFF&w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8OTF8S05WY0tTY1VZMzh8fGVufDB8fHx8fA%3D%3D",
+      "writter": "sahar",
+      "time": "32",
+      "category": "sport"
+    },
+    {
+      "id": "3337",
+      "title": "Gymnastics",
+      "writter": "ali",
+      "catagory": "sport",
+      "image": "https://plus.unsplash.com/premium_vector-1683133627110-1992a28a51cd?bg=FFFFFF&w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8OTZ8S05WY0tTY1VZMzh8fGVufDB8fHx8fA%3D%3D",
+      "time": "8",
+      "text": " sit, amet consectetur adipisicing Lorem ipsum dolor sit, amet consectetur adipisicing. "
+    },
+    {
+      "id": "96f0",
+      "title": "Tennis",
+      "image": "https://plus.unsplash.com/premium_vector-1707272421648-07da1ba3f0ec?bg=FFFFFF&w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8OTl8S05WY0tTY1VZMzh8fGVufDB8fHx8fA%3D%3D",
+      "text": "Tennis: A racket sport played individually against a single opponent (singles) or between two teams of two players each (doubles). Players use a stringed racket to hit a ball over a net into the opponent's court. Matches are typically played on grass, clay, or hard courts.",
+      "catagory": "sport",
+      "writter": "layla",
+      "time": "5"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active {
+  border: 2px solid #e63946;
+  background: #e63946;
+  color: #f1faee;
+  border-radius: 6px;
+  padding: 6px 12px;
+}
+.menu {
+  width: 56px;
+  height: 56px;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
