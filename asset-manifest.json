@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-final/static/css/main.204672f6.css",
+    "main.js": "/react-final/static/js/main.81afd2fd.js",
+    "static/media/hero.jpg": "/react-final/static/media/hero.b89088bdb2364336d682.jpg",
+    "static/media/booklearner-high-resolution-logo-transparent.png": "/react-final/static/media/booklearner-high-resolution-logo-transparent.b820849fe22433079fc7.png",
+    "static/media/react.svg": "/react-final/static/media/react.6cbeeb68385f30321b8a8d70ccf57d99.svg",
+    "index.html": "/react-final/index.html",
+    "main.204672f6.css.map": "/react-final/static/css/main.204672f6.css.map",
+    "main.81afd2fd.js.map": "/react-final/static/js/main.81afd2fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.204672f6.css",
+    "static/js/main.81afd2fd.js"
+  ]
+}
